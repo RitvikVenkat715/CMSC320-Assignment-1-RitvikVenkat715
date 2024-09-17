@@ -1,4 +1,8 @@
 Q1: Why might be consider using git?
 
 Answer: It makes it easy to pull and push from a repository. If we are working with a group we can easily pull certain parts of the project.
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science can be applied to Business Analytics. This is because of the field's heavy reliance on data and statistics, the fundementals of data science. Additional Business Analytics uses data science to make business decisions.
+
 
