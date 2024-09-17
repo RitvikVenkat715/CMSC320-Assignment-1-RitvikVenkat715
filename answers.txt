@@ -5,4 +5,10 @@ Q2: What field could data science be applied to? Give and Example and how it mig
 
 Answer: Data science can be applied to Business Analytics. This is because of the field's heavy reliance on data and statistics, the fundementals of data science. Additional Business Analytics uses data science to make business decisions.
 
+Q3: What is the difference between merging and rebasing?
 
+Answer: Merging puts changes from multiple branches and puts them into another branch in one commit. Rebasing is where the changes are directly made in the main branch.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I am hoping to improve my data cleaning and analysis skills. I have some experience working with Pandas and SQL but I am completely self taught so getting structued learning is something I am looking forward to.
